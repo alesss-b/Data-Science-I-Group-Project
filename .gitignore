@@ -209,3 +209,11 @@ __marimo__/
 
 # Project Dataset
 dblp_ref/
+dblp-ref/dblp-ref-0.json
+dblp-ref/dblp-ref-1.json
+dblp-ref/dblp-ref-2.json
+dblp-ref/dblp-ref-3.json
+outputs/breakthrough_papers.csv
+outputs/influence_by_year.csv
+outputs/top_authors_by_influence.csv
+outputs/top_papers_by_pagerank.csv
