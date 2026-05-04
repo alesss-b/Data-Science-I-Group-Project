@@ -217,3 +217,4 @@ outputs/breakthrough_papers.csv
 outputs/influence_by_year.csv
 outputs/top_authors_by_influence.csv
 outputs/top_papers_by_pagerank.csv
+cleaned_dataset.pkl
