@@ -1,0 +1,16 @@
+topic_label,title,venue,year,n_citation,topic_weight
+machine learning,Development of an adaptive learning system with two sources of personalization information,Computers in Education,2008,269,0.16253107041229042
+machine learning,Spiraling into Transformative Learning,International Journal of Adult Vocational Education and Technology,2010,50,0.16020498289247853
+machine learning,Identifying Middlewares for Mashup Personal Learning Environments,Future Internet,2009,13,0.15621797601863774
+networks wireless systems,Routing in mobile wireless sensor network: a survey,Telecommunication Systems,2014,50,0.11286890711605457
+networks wireless systems,A new routing protocol for WBAN to enhance energy consumption and network lifetime,international conference of distributed computing and networking,2016,10,0.1108589591360678
+networks wireless systems,A Neural Networks-Based Hybrid Routing Protocol for Wireless Mesh Networks,Sensors,2012,50,0.11083050916917635
+computer vision,A ROI image retrieval method based on CVAAO,Image and Vision Computing,2008,29,0.10733751204211846
+computer vision,Effective image splicing detection based on image chroma,international conference on image processing,2009,89,0.10236227973720356
+computer vision,Gabor filter and eigen-flame image-based burning state recognition for sintering process of rotary kiln,conference on decision and control,2011,50,0.10082371582908828
+social recommender systems,Trajectory tracking for an autonomous airship using fuzzy adaptive sliding mode control,Journal of Zhejiang University Science C,2012,50,0.13888342604253295
+social recommender systems,Fuzzy Model Reference Adaptive Control Design for Uncertain Nonlinear Time-delay Systems,ieee international conference on fuzzy systems,2006,50,0.13498332352160447
+social recommender systems,Adaptive fuzzy quantized control of time-delayed nonlinear systems with communication constraint ☆,Fuzzy Sets and Systems,2017,50,0.13357077614750898
+mixed topic,MAPG: memory access power gating,"design, automation, and test in europe",2012,50,0.13700856193572714
+mixed topic,Power Network-on-Chip for Scalable Power Delivery,system level interconnect prediction,2014,0,0.13546712019812476
+mixed topic,A low power strategy for future mobile terminals,"design, automation, and test in europe",2004,2,0.13408326719309674

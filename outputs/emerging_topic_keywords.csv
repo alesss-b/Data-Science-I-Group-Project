@@ -1,0 +1,11 @@
+topic_id,top_words,topic_label
+0,"channel, scheme, rate, interference, channels, error, signal, frequency, mimo, performance, noise, estimation",mixed topic
+1,"web, software, service, information, services, user, systems, users, design, development, research, management",data mining databases
+2,"network, networks, wireless, sensor, routing, nodes, protocol, traffic, mobile, node, ad, hoc",networks wireless systems
+3,"image, images, method, based, detection, recognition, features, segmentation, feature, video, using, proposed",computer vision
+4,"algorithm, problem, algorithms, problems, optimization, graph, time, search, method, solution, optimal, set",mixed topic
+5,"data, mining, analysis, clustering, classification, database, large, query, sets, information, processing, gene",machine learning
+6,"model, models, modeling, process, analysis, based, simulation, approach, using, parameters, used, prediction",machine learning
+7,"learning, students, training, machine, classification, knowledge, student, neural, education, teaching, online, course",machine learning
+8,"power, energy, design, consumption, low, voltage, memory, high, chip, performance, circuit, cmos",mixed topic
+9,"control, fuzzy, controller, systems, robot, nonlinear, stability, feedback, adaptive, time, tracking, design",social recommender systems
