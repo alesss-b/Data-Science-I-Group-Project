@@ -12,7 +12,9 @@ This project explores the DBLP computer science bibliography dataset through thr
 
 We created this project in Python in Jupyter Notebooks, so please make sure you have both Python and Jupyter Notebook installed before running the code! If Python is not installed, you can download it from https://www.python.org/downloads/. You can install Jupyter Notebook through python -m pip install notebook.
 
-We used numpy, pandas, matplotlib, seaborn, networkx, scikit-learn, scipy, and python-louvain in this code. These are all packages that need to be installed on your computer for this program to work. You can install them using pip in the command line. To do this, open PowerShell or another terminal and type python -m pip install _package-name_.
+We used numpy, pandas, matplotlib, seaborn, networkx, scikit-learn, scipy, and python-louvain in this code. These are all packages that need to be installed on your computer for this program to work. You can install them using pip in the command line. To do this, open PowerShell or another terminal and type `python -m pip install package-name`. Alternatively, you can install all 
+dependencies at once by running `pip install -r requirements.txt` in the project 
+root (requirements.txt is included in the zip).
 
 ## Dataset
 
